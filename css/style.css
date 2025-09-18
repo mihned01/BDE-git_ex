@@ -22,3 +22,17 @@ gap: 40px;
   height: 300px;
   width: 80px;
 }   
+
+.blue-boxes {
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+}
+
+.box-4,
+.box-5 {
+  background: blue;
+  flex: 1;
+  height: 300px;
+  width: 80px;
+}

@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    background: tomato;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+
+.red-boxes {
+display: flex;
+gap: 40px;
+
+}
+
